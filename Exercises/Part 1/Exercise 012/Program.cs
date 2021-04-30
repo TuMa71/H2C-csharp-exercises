@@ -9,8 +9,9 @@ namespace exercise_12
       // Write your code here:
     Console.WriteLine("Give a number! ");
     String userInput = Console.ReadLine();
-    double doubleValue = Convert.ToDouble(userInput);
-    Console.WriteLine("You gave " + doubleValue);
+    int intValue  = Convert.ToInt32(userInput);
+    Console.WriteLine("You gave " + intValue);
+    
     
     
     }
