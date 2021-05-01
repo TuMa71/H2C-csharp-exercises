@@ -8,6 +8,7 @@ namespace exercise_39
     {
       // Write your code here:
       int sum = 0;
+
       while (true)
             {
                 Console.WriteLine("Give a number: ");
